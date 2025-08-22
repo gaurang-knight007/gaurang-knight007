@@ -1,6 +1,6 @@
 <div align="center">
 
-##  *🌟 Gaurang Gautam 🌟*  
+#  *🌟 Gaurang Gautam 🌟*  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurangalpha)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaurang-knight007)
@@ -18,7 +18,7 @@
 - 🌱 Learning *System Design & Advanced ML*  
 - 💡 Solved *300+ LeetCode* problems  
 - 🚀 Building *VAARTA, POPSHOP & Java Projects*  
-- 📝 Exploring *Spring Boot, WebSockets, and Microservices*  
+- 📝 Exploring *Spring Boot, WebSockets, CI/CD and Microservices*  
 
 ---
 
