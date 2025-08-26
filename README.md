@@ -17,7 +17,7 @@
 - 🔭 Currently working on *Real-Time Chat & Local Discovery Apps*  
 - 🌱 Learning *System Design & Advanced ML*  
 - 💡 Solved *300+ LeetCode* problems  
-- 🚀 Building *VAARTA, POPSHOP & Java Projects*  
+- 🚀 Building *VAARTA, POPSHOP, Java & ML Projects*  
 - 📝 Exploring *Spring Boot, WebSockets, CI/CD and Microservices*  
 
 ---
