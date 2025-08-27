@@ -11,6 +11,12 @@
 
 ---
 
+
+## 🌟 *Profile Visitors*  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gaurang-knight007)  
+
+---
+
 ### 🧑‍💻 *About Me*  
 🎯 Aspiring *Full Stack Developer* | 🧠 Passionate about *AI/ML & Scalable Applications*  
 
@@ -54,8 +60,11 @@
 
 ---
 
-## 🌟 *Profile Visitors*  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gaurang-knight007)  
+## 📈 GitHub Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=11muskansingh&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+</div>
 
 ---
 
