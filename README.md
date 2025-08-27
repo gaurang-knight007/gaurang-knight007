@@ -63,7 +63,7 @@
 ## 📈 GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=11muskansingh&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurang-knight007&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
 
 ---
